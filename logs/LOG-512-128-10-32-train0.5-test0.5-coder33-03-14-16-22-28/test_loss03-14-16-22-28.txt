@@ -1,0 +1,119 @@
+2023-03-14 16:22:57,332 - test_loss - INFO - pred error std_var 5.709479331970215
+2023-03-14 16:22:57,333 - test_loss - INFO - best pred error std_var 5.709479331970215
+2023-03-14 16:23:18,260 - test_loss - INFO - pred error std_var 5.315534591674805
+2023-03-14 16:23:18,260 - test_loss - INFO - best pred error std_var 5.315534591674805
+2023-03-14 16:23:39,093 - test_loss - INFO - pred error std_var 5.122410774230957
+2023-03-14 16:23:39,093 - test_loss - INFO - best pred error std_var 5.122410774230957
+2023-03-14 16:23:59,865 - test_loss - INFO - pred error std_var 5.027306079864502
+2023-03-14 16:23:59,866 - test_loss - INFO - best pred error std_var 5.027306079864502
+2023-03-14 16:24:20,574 - test_loss - INFO - pred error std_var 4.949492931365967
+2023-03-14 16:24:20,574 - test_loss - INFO - best pred error std_var 4.949492931365967
+2023-03-14 16:24:43,785 - test_loss - INFO - pred error std_var 4.889165878295898
+2023-03-14 16:24:43,785 - test_loss - INFO - best pred error std_var 4.889165878295898
+2023-03-14 16:25:05,224 - test_loss - INFO - pred error std_var 4.851954936981201
+2023-03-14 16:25:05,224 - test_loss - INFO - best pred error std_var 4.851954936981201
+2023-03-14 16:25:28,548 - test_loss - INFO - pred error std_var 4.809208393096924
+2023-03-14 16:25:28,548 - test_loss - INFO - best pred error std_var 4.809208393096924
+2023-03-14 16:25:51,988 - test_loss - INFO - pred error std_var 4.7721381187438965
+2023-03-14 16:25:51,989 - test_loss - INFO - best pred error std_var 4.7721381187438965
+2023-03-14 16:26:15,415 - test_loss - INFO - pred error std_var 4.740931510925293
+2023-03-14 16:26:15,415 - test_loss - INFO - best pred error std_var 4.740931510925293
+2023-03-14 16:26:38,881 - test_loss - INFO - pred error std_var 4.7147369384765625
+2023-03-14 16:26:38,881 - test_loss - INFO - best pred error std_var 4.7147369384765625
+2023-03-14 16:27:02,466 - test_loss - INFO - pred error std_var 4.698512077331543
+2023-03-14 16:27:02,466 - test_loss - INFO - best pred error std_var 4.698512077331543
+2023-03-14 16:27:23,403 - test_loss - INFO - pred error std_var 4.6661577224731445
+2023-03-14 16:27:23,403 - test_loss - INFO - best pred error std_var 4.6661577224731445
+2023-03-14 16:27:44,667 - test_loss - INFO - pred error std_var 4.64674711227417
+2023-03-14 16:27:44,668 - test_loss - INFO - best pred error std_var 4.64674711227417
+2023-03-14 16:28:05,691 - test_loss - INFO - pred error std_var 4.633371353149414
+2023-03-14 16:28:05,691 - test_loss - INFO - best pred error std_var 4.633371353149414
+2023-03-14 16:28:26,812 - test_loss - INFO - pred error std_var 4.623366832733154
+2023-03-14 16:28:26,812 - test_loss - INFO - best pred error std_var 4.623366832733154
+2023-03-14 16:28:48,074 - test_loss - INFO - pred error std_var 4.617478370666504
+2023-03-14 16:28:48,074 - test_loss - INFO - best pred error std_var 4.617478370666504
+2023-03-14 16:29:09,191 - test_loss - INFO - pred error std_var 4.608356475830078
+2023-03-14 16:29:09,191 - test_loss - INFO - best pred error std_var 4.608356475830078
+2023-03-14 16:29:30,573 - test_loss - INFO - pred error std_var 4.600665092468262
+2023-03-14 16:29:30,574 - test_loss - INFO - best pred error std_var 4.600665092468262
+2023-03-14 16:29:51,808 - test_loss - INFO - pred error std_var 4.589807033538818
+2023-03-14 16:29:51,808 - test_loss - INFO - best pred error std_var 4.589807033538818
+2023-03-14 16:30:13,022 - test_loss - INFO - pred error std_var 4.586670875549316
+2023-03-14 16:30:13,022 - test_loss - INFO - best pred error std_var 4.586670875549316
+2023-03-14 16:30:34,487 - test_loss - INFO - pred error std_var 4.5841851234436035
+2023-03-14 16:30:34,487 - test_loss - INFO - best pred error std_var 4.5841851234436035
+2023-03-14 16:30:55,664 - test_loss - INFO - pred error std_var 4.57944393157959
+2023-03-14 16:30:55,664 - test_loss - INFO - best pred error std_var 4.57944393157959
+2023-03-14 16:31:17,085 - test_loss - INFO - pred error std_var 4.5795207023620605
+2023-03-14 16:31:38,213 - test_loss - INFO - pred error std_var 4.579921722412109
+2023-03-14 16:31:59,394 - test_loss - INFO - pred error std_var 4.570835590362549
+2023-03-14 16:31:59,394 - test_loss - INFO - best pred error std_var 4.570835590362549
+2023-03-14 16:32:23,614 - test_loss - INFO - pred error std_var 4.559955596923828
+2023-03-14 16:32:23,614 - test_loss - INFO - best pred error std_var 4.559955596923828
+2023-03-14 16:32:47,428 - test_loss - INFO - pred error std_var 4.568382263183594
+2023-03-14 16:33:11,405 - test_loss - INFO - pred error std_var 4.560956001281738
+2023-03-14 16:33:35,168 - test_loss - INFO - pred error std_var 4.5633673667907715
+2023-03-14 16:33:59,156 - test_loss - INFO - pred error std_var 4.55904483795166
+2023-03-14 16:33:59,156 - test_loss - INFO - best pred error std_var 4.55904483795166
+2023-03-14 16:34:22,912 - test_loss - INFO - pred error std_var 4.556970596313477
+2023-03-14 16:34:22,912 - test_loss - INFO - best pred error std_var 4.556970596313477
+2023-03-14 16:34:46,639 - test_loss - INFO - pred error std_var 4.557380199432373
+2023-03-14 16:35:10,376 - test_loss - INFO - pred error std_var 4.558445453643799
+2023-03-14 16:35:33,986 - test_loss - INFO - pred error std_var 4.544364929199219
+2023-03-14 16:35:33,986 - test_loss - INFO - best pred error std_var 4.544364929199219
+2023-03-14 16:35:55,377 - test_loss - INFO - pred error std_var 4.5446624755859375
+2023-03-14 16:36:16,625 - test_loss - INFO - pred error std_var 4.548144340515137
+2023-03-14 16:36:38,034 - test_loss - INFO - pred error std_var 4.540191173553467
+2023-03-14 16:36:38,035 - test_loss - INFO - best pred error std_var 4.540191173553467
+2023-03-14 16:36:59,525 - test_loss - INFO - pred error std_var 4.540729999542236
+2023-03-14 16:37:20,946 - test_loss - INFO - pred error std_var 4.5411906242370605
+2023-03-14 16:37:42,516 - test_loss - INFO - pred error std_var 4.539764404296875
+2023-03-14 16:37:42,516 - test_loss - INFO - best pred error std_var 4.539764404296875
+2023-03-14 16:38:03,975 - test_loss - INFO - pred error std_var 4.532504558563232
+2023-03-14 16:38:03,975 - test_loss - INFO - best pred error std_var 4.532504558563232
+2023-03-14 16:38:25,364 - test_loss - INFO - pred error std_var 4.536706447601318
+2023-03-14 16:38:46,826 - test_loss - INFO - pred error std_var 4.534165859222412
+2023-03-14 16:39:07,964 - test_loss - INFO - pred error std_var 4.523237228393555
+2023-03-14 16:39:07,965 - test_loss - INFO - best pred error std_var 4.523237228393555
+2023-03-14 16:39:29,281 - test_loss - INFO - pred error std_var 4.530816078186035
+2023-03-14 16:39:50,676 - test_loss - INFO - pred error std_var 4.533278465270996
+2023-03-14 16:40:11,956 - test_loss - INFO - pred error std_var 4.5386176109313965
+2023-03-14 16:40:33,548 - test_loss - INFO - pred error std_var 4.533924579620361
+2023-03-14 16:40:54,911 - test_loss - INFO - pred error std_var 4.5328240394592285
+2023-03-14 16:41:16,306 - test_loss - INFO - pred error std_var 4.529714584350586
+2023-03-14 16:41:37,821 - test_loss - INFO - pred error std_var 4.539870738983154
+2023-03-14 16:41:59,667 - test_loss - INFO - pred error std_var 4.524456977844238
+2023-03-14 16:42:25,932 - test_loss - INFO - pred error std_var 4.525697708129883
+2023-03-14 16:42:53,123 - test_loss - INFO - pred error std_var 4.529477596282959
+2023-03-14 16:43:22,991 - test_loss - INFO - pred error std_var 4.525440216064453
+2023-03-14 16:43:55,509 - test_loss - INFO - pred error std_var 4.519580364227295
+2023-03-14 16:43:55,509 - test_loss - INFO - best pred error std_var 4.519580364227295
+2023-03-14 16:44:29,306 - test_loss - INFO - pred error std_var 4.524487495422363
+2023-03-14 16:45:00,510 - test_loss - INFO - pred error std_var 4.522244453430176
+2023-03-14 16:45:33,582 - test_loss - INFO - pred error std_var 4.530158519744873
+2023-03-14 16:46:06,718 - test_loss - INFO - pred error std_var 4.52509880065918
+2023-03-14 16:46:39,508 - test_loss - INFO - pred error std_var 4.534183979034424
+2023-03-14 16:47:15,317 - test_loss - INFO - pred error std_var 4.513376235961914
+2023-03-14 16:47:15,317 - test_loss - INFO - best pred error std_var 4.513376235961914
+2023-03-14 16:47:47,493 - test_loss - INFO - pred error std_var 4.522130966186523
+2023-03-14 16:48:10,023 - test_loss - INFO - pred error std_var 4.52250337600708
+2023-03-14 16:48:30,998 - test_loss - INFO - pred error std_var 4.527045249938965
+2023-03-14 16:48:52,406 - test_loss - INFO - pred error std_var 4.5172553062438965
+2023-03-14 16:49:14,976 - test_loss - INFO - pred error std_var 4.513294219970703
+2023-03-14 16:49:14,976 - test_loss - INFO - best pred error std_var 4.513294219970703
+2023-03-14 16:49:46,642 - test_loss - INFO - pred error std_var 4.518285274505615
+2023-03-14 16:50:16,136 - test_loss - INFO - pred error std_var 4.519476413726807
+2023-03-14 16:50:41,399 - test_loss - INFO - pred error std_var 4.515826225280762
+2023-03-14 16:51:06,610 - test_loss - INFO - pred error std_var 4.521039009094238
+2023-03-14 16:51:30,285 - test_loss - INFO - pred error std_var 4.519559860229492
+2023-03-14 16:51:55,875 - test_loss - INFO - pred error std_var 4.516243934631348
+2023-03-14 16:52:21,107 - test_loss - INFO - pred error std_var 4.516201019287109
+2023-03-14 16:52:45,311 - test_loss - INFO - pred error std_var 4.509836673736572
+2023-03-14 16:52:45,311 - test_loss - INFO - best pred error std_var 4.509836673736572
+2023-03-14 16:53:10,363 - test_loss - INFO - pred error std_var 4.5170063972473145
+2023-03-14 16:53:35,484 - test_loss - INFO - pred error std_var 4.514705181121826
+2023-03-14 16:54:00,349 - test_loss - INFO - pred error std_var 4.515741348266602
+2023-03-14 16:54:24,030 - test_loss - INFO - pred error std_var 4.5122199058532715
+2023-03-14 16:54:46,151 - test_loss - INFO - pred error std_var 4.512343406677246
+2023-03-14 16:55:08,170 - test_loss - INFO - pred error std_var 4.513918876647949
+2023-03-14 16:55:30,269 - test_loss - INFO - pred error std_var 4.512815952301025

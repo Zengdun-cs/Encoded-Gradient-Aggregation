@@ -1,0 +1,166 @@
+2023-03-14 16:22:57,330 - train_loss - INFO - KS test: stat 0.007977675052288635, p_value 4.921936908391173e-57
+2023-03-14 16:22:57,366 - train_loss - INFO - Epoch: 1/1000,  train loss_sum: 7708.8396, train loss_avg: 38.5442  time: 21.06s
+2023-03-14 16:23:18,257 - train_loss - INFO - KS test: stat 0.008015606605070835, p_value 1.4208533344173678e-57
+2023-03-14 16:23:18,305 - train_loss - INFO - Epoch: 2/1000,  train loss_sum: 6007.6258, train loss_avg: 30.0381  time: 20.94s
+2023-03-14 16:23:39,091 - train_loss - INFO - KS test: stat 0.007571473793308137, p_value 2.041739366012016e-51
+2023-03-14 16:23:39,138 - train_loss - INFO - Epoch: 3/1000,  train loss_sum: 5391.0344, train loss_avg: 26.9552  time: 20.83s
+2023-03-14 16:23:59,863 - train_loss - INFO - KS test: stat 0.007678603625236369, p_value 7.192256380269149e-53
+2023-03-14 16:23:59,909 - train_loss - INFO - Epoch: 4/1000,  train loss_sum: 5100.2482, train loss_avg: 25.5012  time: 20.77s
+2023-03-14 16:24:20,572 - train_loss - INFO - KS test: stat 0.008020756054915146, p_value 1.1997744035874983e-57
+2023-03-14 16:24:20,619 - train_loss - INFO - Epoch: 5/1000,  train loss_sum: 4928.2302, train loss_avg: 24.6412  time: 20.71s
+2023-03-14 16:24:43,783 - train_loss - INFO - KS test: stat 0.008372333656643138, p_value 8.969932147400208e-63
+2023-03-14 16:24:43,831 - train_loss - INFO - Epoch: 6/1000,  train loss_sum: 4806.1391, train loss_avg: 24.0307  time: 23.21s
+2023-03-14 16:25:05,222 - train_loss - INFO - KS test: stat 0.00774661034988855, p_value 8.39096274716623e-54
+2023-03-14 16:25:05,270 - train_loss - INFO - Epoch: 7/1000,  train loss_sum: 4704.8781, train loss_avg: 23.5244  time: 21.44s
+2023-03-14 16:25:28,546 - train_loss - INFO - KS test: stat 0.00787785613271863, p_value 1.258513438054367e-55
+2023-03-14 16:25:28,595 - train_loss - INFO - Epoch: 8/1000,  train loss_sum: 4622.8448, train loss_avg: 23.1142  time: 23.32s
+2023-03-14 16:25:51,986 - train_loss - INFO - KS test: stat 0.007740319476540969, p_value 1.02439629175681e-53
+2023-03-14 16:25:52,035 - train_loss - INFO - Epoch: 9/1000,  train loss_sum: 4549.6636, train loss_avg: 22.7483  time: 23.44s
+2023-03-14 16:26:15,413 - train_loss - INFO - KS test: stat 0.00825437227527781, p_value 4.980587254711652e-61
+2023-03-14 16:26:15,461 - train_loss - INFO - Epoch: 10/1000,  train loss_sum: 4487.0217, train loss_avg: 22.4351  time: 23.43s
+2023-03-14 16:26:38,879 - train_loss - INFO - KS test: stat 0.008294096188169564, p_value 1.295928891160999e-61
+2023-03-14 16:26:38,928 - train_loss - INFO - Epoch: 11/1000,  train loss_sum: 4430.3305, train loss_avg: 22.1517  time: 23.47s
+2023-03-14 16:27:02,464 - train_loss - INFO - KS test: stat 0.007575187799125999, p_value 1.8195510421690847e-51
+2023-03-14 16:27:02,513 - train_loss - INFO - Epoch: 12/1000,  train loss_sum: 4381.8862, train loss_avg: 21.9094  time: 23.59s
+2023-03-14 16:27:23,401 - train_loss - INFO - KS test: stat 0.008231853254662802, p_value 1.0653519423505956e-60
+2023-03-14 16:27:23,451 - train_loss - INFO - Epoch: 13/1000,  train loss_sum: 4338.6719, train loss_avg: 21.6934  time: 20.94s
+2023-03-14 16:27:44,665 - train_loss - INFO - KS test: stat 0.008381220618335655, p_value 6.612416460523881e-63
+2023-03-14 16:27:44,713 - train_loss - INFO - Epoch: 14/1000,  train loss_sum: 4302.2479, train loss_avg: 21.5112  time: 21.26s
+2023-03-14 16:28:05,688 - train_loss - INFO - KS test: stat 0.008097528243215885, p_value 9.516086727409807e-59
+2023-03-14 16:28:05,735 - train_loss - INFO - Epoch: 15/1000,  train loss_sum: 4271.6661, train loss_avg: 21.3583  time: 21.02s
+2023-03-14 16:28:26,809 - train_loss - INFO - KS test: stat 0.00822433824422042, p_value 1.3724304297862615e-60
+2023-03-14 16:28:26,854 - train_loss - INFO - Epoch: 16/1000,  train loss_sum: 4246.5885, train loss_avg: 21.2329  time: 21.12s
+2023-03-14 16:28:48,072 - train_loss - INFO - KS test: stat 0.0079845415628097, p_value 3.9323101291767805e-57
+2023-03-14 16:28:48,121 - train_loss - INFO - Epoch: 17/1000,  train loss_sum: 4226.3854, train loss_avg: 21.1319  time: 21.27s
+2023-03-14 16:29:09,189 - train_loss - INFO - KS test: stat 0.007965190838595537, p_value 7.398907725674997e-57
+2023-03-14 16:29:09,236 - train_loss - INFO - Epoch: 18/1000,  train loss_sum: 4209.4296, train loss_avg: 21.0471  time: 21.12s
+2023-03-14 16:29:30,571 - train_loss - INFO - KS test: stat 0.00758679785336705, p_value 1.2687974828326941e-51
+2023-03-14 16:29:30,619 - train_loss - INFO - Epoch: 19/1000,  train loss_sum: 4197.5722, train loss_avg: 20.9879  time: 21.38s
+2023-03-14 16:29:51,806 - train_loss - INFO - KS test: stat 0.008393641295001864, p_value 4.3155706538995364e-63
+2023-03-14 16:29:51,853 - train_loss - INFO - Epoch: 20/1000,  train loss_sum: 4184.9935, train loss_avg: 20.9250  time: 21.23s
+2023-03-14 16:30:13,019 - train_loss - INFO - KS test: stat 0.00777336222908831, p_value 3.5852618818842934e-54
+2023-03-14 16:30:13,067 - train_loss - INFO - Epoch: 21/1000,  train loss_sum: 4175.0752, train loss_avg: 20.8754  time: 21.21s
+2023-03-14 16:30:34,485 - train_loss - INFO - KS test: stat 0.007847402865836295, p_value 3.3558632442183925e-55
+2023-03-14 16:30:34,533 - train_loss - INFO - Epoch: 22/1000,  train loss_sum: 4168.4243, train loss_avg: 20.8421  time: 21.47s
+2023-03-14 16:30:55,661 - train_loss - INFO - KS test: stat 0.008356234657622363, p_value 1.5571499496304896e-62
+2023-03-14 16:30:55,709 - train_loss - INFO - Epoch: 23/1000,  train loss_sum: 4160.7353, train loss_avg: 20.8037  time: 21.18s
+2023-03-14 16:31:17,082 - train_loss - INFO - KS test: stat 0.00825730556923715, p_value 4.510255610948593e-61
+2023-03-14 16:31:17,085 - train_loss - INFO - Epoch: 24/1000,  train loss_sum: 4153.4958, train loss_avg: 20.7675  time: 21.38s
+2023-03-14 16:31:38,210 - train_loss - INFO - KS test: stat 0.007903661937239098, p_value 5.4654219754459805e-56
+2023-03-14 16:31:38,213 - train_loss - INFO - Epoch: 25/1000,  train loss_sum: 4148.6304, train loss_avg: 20.7432  time: 21.13s
+2023-03-14 16:31:59,391 - train_loss - INFO - KS test: stat 0.007992915610494894, p_value 2.989802422125378e-57
+2023-03-14 16:31:59,439 - train_loss - INFO - Epoch: 26/1000,  train loss_sum: 4140.0644, train loss_avg: 20.7003  time: 21.23s
+2023-03-14 16:32:23,612 - train_loss - INFO - KS test: stat 0.0075854376741459895, p_value 1.3235731189899634e-51
+2023-03-14 16:32:23,660 - train_loss - INFO - Epoch: 27/1000,  train loss_sum: 4137.8861, train loss_avg: 20.6894  time: 24.22s
+2023-03-14 16:32:47,425 - train_loss - INFO - KS test: stat 0.007953315952031081, p_value 1.089686015204235e-56
+2023-03-14 16:32:47,428 - train_loss - INFO - Epoch: 28/1000,  train loss_sum: 4129.5574, train loss_avg: 20.6478  time: 23.77s
+2023-03-14 16:33:11,403 - train_loss - INFO - KS test: stat 0.007997734432887649, p_value 2.553316736981408e-57
+2023-03-14 16:33:11,405 - train_loss - INFO - Epoch: 29/1000,  train loss_sum: 4127.0235, train loss_avg: 20.6351  time: 23.98s
+2023-03-14 16:33:35,166 - train_loss - INFO - KS test: stat 0.00766641257691747, p_value 1.0550108960300974e-52
+2023-03-14 16:33:35,168 - train_loss - INFO - Epoch: 30/1000,  train loss_sum: 4122.6250, train loss_avg: 20.6131  time: 23.76s
+2023-03-14 16:33:59,153 - train_loss - INFO - KS test: stat 0.008165558420428431, p_value 9.871539690000259e-60
+2023-03-14 16:33:59,201 - train_loss - INFO - Epoch: 31/1000,  train loss_sum: 4119.7244, train loss_avg: 20.5986  time: 24.03s
+2023-03-14 16:34:22,910 - train_loss - INFO - KS test: stat 0.007561412953686342, p_value 2.788812431947084e-51
+2023-03-14 16:34:22,958 - train_loss - INFO - Epoch: 32/1000,  train loss_sum: 4116.2371, train loss_avg: 20.5812  time: 23.76s
+2023-03-14 16:34:46,637 - train_loss - INFO - KS test: stat 0.007993087531937282, p_value 2.9730209699308695e-57
+2023-03-14 16:34:46,639 - train_loss - INFO - Epoch: 33/1000,  train loss_sum: 4112.5481, train loss_avg: 20.5627  time: 23.68s
+2023-03-14 16:35:10,374 - train_loss - INFO - KS test: stat 0.00822919830917751, p_value 1.1651048922586422e-60
+2023-03-14 16:35:10,376 - train_loss - INFO - Epoch: 34/1000,  train loss_sum: 4109.2481, train loss_avg: 20.5462  time: 23.74s
+2023-03-14 16:35:33,984 - train_loss - INFO - KS test: stat 0.00803970774728427, p_value 6.432415698609722e-58
+2023-03-14 16:35:34,031 - train_loss - INFO - Epoch: 35/1000,  train loss_sum: 4105.9639, train loss_avg: 20.5298  time: 23.65s
+2023-03-14 16:35:55,374 - train_loss - INFO - KS test: stat 0.008088089091020101, p_value 1.3012108903972832e-58
+2023-03-14 16:35:55,377 - train_loss - INFO - Epoch: 36/1000,  train loss_sum: 4101.6453, train loss_avg: 20.5082  time: 21.35s
+2023-03-14 16:36:16,622 - train_loss - INFO - KS test: stat 0.008003929750336258, p_value 2.084147268466814e-57
+2023-03-14 16:36:16,625 - train_loss - INFO - Epoch: 37/1000,  train loss_sum: 4096.3443, train loss_avg: 20.4817  time: 21.25s
+2023-03-14 16:36:38,032 - train_loss - INFO - KS test: stat 0.008435304747525407, p_value 1.026589870819372e-63
+2023-03-14 16:36:38,079 - train_loss - INFO - Epoch: 38/1000,  train loss_sum: 4094.9123, train loss_avg: 20.4746  time: 21.45s
+2023-03-14 16:36:59,523 - train_loss - INFO - KS test: stat 0.00827578053814837, p_value 2.4127893671687243e-61
+2023-03-14 16:36:59,525 - train_loss - INFO - Epoch: 39/1000,  train loss_sum: 4092.5592, train loss_avg: 20.4628  time: 21.45s
+2023-03-14 16:37:20,943 - train_loss - INFO - KS test: stat 0.008158599089860274, p_value 1.2457513620324981e-59
+2023-03-14 16:37:20,946 - train_loss - INFO - Epoch: 40/1000,  train loss_sum: 4091.6763, train loss_avg: 20.4584  time: 21.42s
+2023-03-14 16:37:42,514 - train_loss - INFO - KS test: stat 0.007598825445658486, p_value 8.728440000826621e-52
+2023-03-14 16:37:42,561 - train_loss - INFO - Epoch: 41/1000,  train loss_sum: 4086.0786, train loss_avg: 20.4304  time: 21.61s
+2023-03-14 16:38:03,973 - train_loss - INFO - KS test: stat 0.007730322893492181, p_value 1.4061291047078152e-53
+2023-03-14 16:38:04,020 - train_loss - INFO - Epoch: 42/1000,  train loss_sum: 4084.4334, train loss_avg: 20.4222  time: 21.46s
+2023-03-14 16:38:25,362 - train_loss - INFO - KS test: stat 0.008091963317209128, p_value 1.1444377266155641e-58
+2023-03-14 16:38:25,364 - train_loss - INFO - Epoch: 43/1000,  train loss_sum: 4082.3591, train loss_avg: 20.4118  time: 21.34s
+2023-03-14 16:38:46,823 - train_loss - INFO - KS test: stat 0.008319798032263015, p_value 5.404780708694266e-62
+2023-03-14 16:38:46,826 - train_loss - INFO - Epoch: 44/1000,  train loss_sum: 4079.7689, train loss_avg: 20.3988  time: 21.46s
+2023-03-14 16:39:07,962 - train_loss - INFO - KS test: stat 0.007917937039278788, p_value 3.441408720498718e-56
+2023-03-14 16:39:08,009 - train_loss - INFO - Epoch: 45/1000,  train loss_sum: 4078.1307, train loss_avg: 20.3907  time: 21.18s
+2023-03-14 16:39:29,279 - train_loss - INFO - KS test: stat 0.007970718663414506, p_value 6.177529926927694e-57
+2023-03-14 16:39:29,281 - train_loss - INFO - Epoch: 46/1000,  train loss_sum: 4076.9686, train loss_avg: 20.3848  time: 21.27s
+2023-03-14 16:39:50,674 - train_loss - INFO - KS test: stat 0.008343976411573667, p_value 2.368181341392528e-62
+2023-03-14 16:39:50,677 - train_loss - INFO - Epoch: 47/1000,  train loss_sum: 4074.3704, train loss_avg: 20.3719  time: 21.40s
+2023-03-14 16:40:11,953 - train_loss - INFO - KS test: stat 0.008006537350845111, p_value 1.9133512727501373e-57
+2023-03-14 16:40:11,956 - train_loss - INFO - Epoch: 48/1000,  train loss_sum: 4074.8699, train loss_avg: 20.3743  time: 21.28s
+2023-03-14 16:40:33,546 - train_loss - INFO - KS test: stat 0.008219945812152046, p_value 1.5912406471797965e-60
+2023-03-14 16:40:33,548 - train_loss - INFO - Epoch: 49/1000,  train loss_sum: 4069.6639, train loss_avg: 20.3483  time: 21.59s
+2023-03-14 16:40:54,908 - train_loss - INFO - KS test: stat 0.007991988637193082, p_value 3.0819247677590606e-57
+2023-03-14 16:40:54,911 - train_loss - INFO - Epoch: 50/1000,  train loss_sum: 4068.3683, train loss_avg: 20.3418  time: 21.36s
+2023-03-14 16:41:16,304 - train_loss - INFO - KS test: stat 0.008171279092708261, p_value 8.151897059204745e-60
+2023-03-14 16:41:16,306 - train_loss - INFO - Epoch: 51/1000,  train loss_sum: 4068.6912, train loss_avg: 20.3435  time: 21.40s
+2023-03-14 16:41:37,819 - train_loss - INFO - KS test: stat 0.008142531432132089, p_value 2.130088956006456e-59
+2023-03-14 16:41:37,821 - train_loss - INFO - Epoch: 52/1000,  train loss_sum: 4066.3401, train loss_avg: 20.3317  time: 21.51s
+2023-03-14 16:41:59,663 - train_loss - INFO - KS test: stat 0.007930734674450018, p_value 2.2716028998842303e-56
+2023-03-14 16:41:59,667 - train_loss - INFO - Epoch: 53/1000,  train loss_sum: 4063.8850, train loss_avg: 20.3194  time: 21.85s
+2023-03-14 16:42:25,929 - train_loss - INFO - KS test: stat 0.007797913624921021, p_value 1.6386484794113985e-54
+2023-03-14 16:42:25,932 - train_loss - INFO - Epoch: 54/1000,  train loss_sum: 4062.3685, train loss_avg: 20.3118  time: 26.26s
+2023-03-14 16:42:53,119 - train_loss - INFO - KS test: stat 0.007787664002213701, p_value 2.2728602034723055e-54
+2023-03-14 16:42:53,123 - train_loss - INFO - Epoch: 55/1000,  train loss_sum: 4062.9275, train loss_avg: 20.3146  time: 27.19s
+2023-03-14 16:43:22,987 - train_loss - INFO - KS test: stat 0.007974984961937492, p_value 5.374104724179899e-57
+2023-03-14 16:43:22,991 - train_loss - INFO - Epoch: 56/1000,  train loss_sum: 4061.2644, train loss_avg: 20.3063  time: 29.87s
+2023-03-14 16:43:55,506 - train_loss - INFO - KS test: stat 0.007859660608602659, p_value 2.2623248699366172e-55
+2023-03-14 16:43:55,563 - train_loss - INFO - Epoch: 57/1000,  train loss_sum: 4056.9577, train loss_avg: 20.2848  time: 32.57s
+2023-03-14 16:44:29,303 - train_loss - INFO - KS test: stat 0.00803400586526487, p_value 7.760556287513266e-58
+2023-03-14 16:44:29,306 - train_loss - INFO - Epoch: 58/1000,  train loss_sum: 4058.1940, train loss_avg: 20.2910  time: 33.74s
+2023-03-14 16:45:00,507 - train_loss - INFO - KS test: stat 0.008376674566418968, p_value 7.728953453889625e-63
+2023-03-14 16:45:00,510 - train_loss - INFO - Epoch: 59/1000,  train loss_sum: 4057.8679, train loss_avg: 20.2893  time: 31.20s
+2023-03-14 16:45:33,577 - train_loss - INFO - KS test: stat 0.008036380692537648, p_value 7.177073859620879e-58
+2023-03-14 16:45:33,582 - train_loss - INFO - Epoch: 60/1000,  train loss_sum: 4056.2208, train loss_avg: 20.2811  time: 33.07s
+2023-03-14 16:46:06,716 - train_loss - INFO - KS test: stat 0.00852444027662691, p_value 4.642993057372293e-65
+2023-03-14 16:46:06,718 - train_loss - INFO - Epoch: 61/1000,  train loss_sum: 4054.3459, train loss_avg: 20.2717  time: 33.14s
+2023-03-14 16:46:39,505 - train_loss - INFO - KS test: stat 0.00797727124082337, p_value 4.987312747850655e-57
+2023-03-14 16:46:39,508 - train_loss - INFO - Epoch: 62/1000,  train loss_sum: 4054.4284, train loss_avg: 20.2721  time: 32.79s
+2023-03-14 16:47:15,314 - train_loss - INFO - KS test: stat 0.008277562296249263, p_value 2.2713593485526857e-61
+2023-03-14 16:47:15,384 - train_loss - INFO - Epoch: 63/1000,  train loss_sum: 4051.7682, train loss_avg: 20.2588  time: 35.88s
+2023-03-14 16:47:47,490 - train_loss - INFO - KS test: stat 0.008322652116838525, p_value 4.903769058155194e-62
+2023-03-14 16:47:47,493 - train_loss - INFO - Epoch: 64/1000,  train loss_sum: 4049.5434, train loss_avg: 20.2477  time: 32.11s
+2023-03-14 16:48:10,020 - train_loss - INFO - KS test: stat 0.008055181528083155, p_value 3.862396804480597e-58
+2023-03-14 16:48:10,023 - train_loss - INFO - Epoch: 65/1000,  train loss_sum: 4049.9165, train loss_avg: 20.2496  time: 22.53s
+2023-03-14 16:48:30,996 - train_loss - INFO - KS test: stat 0.008330616938434177, p_value 3.7372551537269193e-62
+2023-03-14 16:48:30,998 - train_loss - INFO - Epoch: 66/1000,  train loss_sum: 4049.5173, train loss_avg: 20.2476  time: 20.98s
+2023-03-14 16:48:52,403 - train_loss - INFO - KS test: stat 0.008185628394771105, p_value 5.04074858264775e-60
+2023-03-14 16:48:52,406 - train_loss - INFO - Epoch: 67/1000,  train loss_sum: 4049.5191, train loss_avg: 20.2476  time: 21.41s
+2023-03-14 16:49:14,974 - train_loss - INFO - KS test: stat 0.007407187326967213, p_value 3.1532763011532037e-49
+2023-03-14 16:49:15,020 - train_loss - INFO - Epoch: 68/1000,  train loss_sum: 4046.2808, train loss_avg: 20.2314  time: 22.61s
+2023-03-14 16:49:46,638 - train_loss - INFO - KS test: stat 0.008139292739436699, p_value 2.3730135297743286e-59
+2023-03-14 16:49:46,643 - train_loss - INFO - Epoch: 69/1000,  train loss_sum: 4045.8645, train loss_avg: 20.2293  time: 31.62s
+2023-03-14 16:50:16,133 - train_loss - INFO - KS test: stat 0.008052891457983602, p_value 4.165504253216407e-58
+2023-03-14 16:50:16,136 - train_loss - INFO - Epoch: 70/1000,  train loss_sum: 4044.0825, train loss_avg: 20.2204  time: 29.49s
+2023-03-14 16:50:41,397 - train_loss - INFO - KS test: stat 0.007805697748003215, p_value 1.2777690800961883e-54
+2023-03-14 16:50:41,400 - train_loss - INFO - Epoch: 71/1000,  train loss_sum: 4044.8969, train loss_avg: 20.2245  time: 25.26s
+2023-03-14 16:51:06,607 - train_loss - INFO - KS test: stat 0.008370938498800329, p_value 9.409495255865038e-63
+2023-03-14 16:51:06,610 - train_loss - INFO - Epoch: 72/1000,  train loss_sum: 4043.0515, train loss_avg: 20.2153  time: 25.21s
+2023-03-14 16:51:30,283 - train_loss - INFO - KS test: stat 0.007749894537193103, p_value 7.560394264271547e-54
+2023-03-14 16:51:30,285 - train_loss - INFO - Epoch: 73/1000,  train loss_sum: 4044.6366, train loss_avg: 20.2232  time: 23.67s
+2023-03-14 16:51:55,872 - train_loss - INFO - KS test: stat 0.008097396811936608, p_value 9.557660717069496e-59
+2023-03-14 16:51:55,875 - train_loss - INFO - Epoch: 74/1000,  train loss_sum: 4041.2557, train loss_avg: 20.2063  time: 25.59s
+2023-03-14 16:52:21,104 - train_loss - INFO - KS test: stat 0.0085287926125652, p_value 3.9882434199284055e-65
+2023-03-14 16:52:21,107 - train_loss - INFO - Epoch: 75/1000,  train loss_sum: 4039.8354, train loss_avg: 20.1992  time: 25.23s
+2023-03-14 16:52:45,308 - train_loss - INFO - KS test: stat 0.008332235053765458, p_value 3.5364780069321277e-62
+2023-03-14 16:52:45,361 - train_loss - INFO - Epoch: 76/1000,  train loss_sum: 4039.2547, train loss_avg: 20.1963  time: 24.25s
+2023-03-14 16:53:10,361 - train_loss - INFO - KS test: stat 0.008334311921867399, p_value 3.2944525612825333e-62
+2023-03-14 16:53:10,363 - train_loss - INFO - Epoch: 77/1000,  train loss_sum: 4038.9260, train loss_avg: 20.1946  time: 25.00s
+2023-03-14 16:53:35,481 - train_loss - INFO - KS test: stat 0.007809689300241451, p_value 1.1246387820286568e-54
+2023-03-14 16:53:35,484 - train_loss - INFO - Epoch: 78/1000,  train loss_sum: 4037.0913, train loss_avg: 20.1855  time: 25.12s
+2023-03-14 16:54:00,346 - train_loss - INFO - KS test: stat 0.008395596512116077, p_value 4.034972046554894e-63
+2023-03-14 16:54:00,349 - train_loss - INFO - Epoch: 79/1000,  train loss_sum: 4034.2722, train loss_avg: 20.1714  time: 24.87s
+2023-03-14 16:54:24,027 - train_loss - INFO - KS test: stat 0.008206235760423619, p_value 2.523736430038963e-60
+2023-03-14 16:54:24,030 - train_loss - INFO - Epoch: 80/1000,  train loss_sum: 4034.0496, train loss_avg: 20.1702  time: 23.68s
+2023-03-14 16:54:46,148 - train_loss - INFO - KS test: stat 0.008376458985620894, p_value 7.786335019795644e-63
+2023-03-14 16:54:46,151 - train_loss - INFO - Epoch: 81/1000,  train loss_sum: 4031.8613, train loss_avg: 20.1593  time: 22.12s
+2023-03-14 16:55:08,167 - train_loss - INFO - KS test: stat 0.007877958275739477, p_value 1.2543721941123218e-55
+2023-03-14 16:55:08,170 - train_loss - INFO - Epoch: 82/1000,  train loss_sum: 4033.7625, train loss_avg: 20.1688  time: 22.02s
+2023-03-14 16:55:30,267 - train_loss - INFO - KS test: stat 0.007761644614060176, p_value 5.2051232804175626e-54
+2023-03-14 16:55:30,269 - train_loss - INFO - Epoch: 83/1000,  train loss_sum: 4034.7682, train loss_avg: 20.1738  time: 22.10s
